@@ -1,0 +1,524 @@
+------------------------------------------------------
+Iteration: 4
+Logged Time: 2020-10-31 22:42:26
+Alert Reported Time: 2020-10-31 22:42:25
+Alert Type: True
+
+Reporting Node      Coord    Temp    MAC
+7                   (1, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+6                   (1, 1)   66      08:00:27:02:8A:40       
+8                   (1, 3)   89      08:00:27:02:8A:40       
+2                   (0, 2)   66      08:00:27:02:8A:40       
+12                  (2, 2)   89      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:42:26
+Infrared Satellite Reporting (Celsius): 86
+Infrared Satellite Reporting Coord: (1, 2)
+Communication Time (seconds): 0.642439
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 8
+Logged Time: 2020-10-31 22:42:30
+Alert Reported Time: 2020-10-31 22:42:29
+Alert Type: False (Infrared satellite reading not found)
+
+Reporting Node      Coord    Temp    MAC
+13                  (2, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+12                  (2, 2)   88      08:00:27:02:8A:40       
+14                  (2, 4)   68      08:00:27:02:8A:40       
+8                   (1, 3)   75      08:00:27:02:8A:40       
+18                  (3, 3)   88      08:00:27:02:8A:40       
+Communication Time (seconds): 0.663118
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 18
+Logged Time: 2020-10-31 22:42:40
+Alert Reported Time: 2020-10-31 22:42:39
+Alert Type: True
+
+Reporting Node      Coord    Temp    MAC
+18                  (3, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+17                  (3, 2)   84      08:00:27:02:8A:40       
+19                  (3, 4)   90      08:00:27:02:8A:40       
+13                  (2, 3)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:42:40
+Infrared Satellite Reporting (Celsius): 88
+Infrared Satellite Reporting Coord: (3, 3)
+Communication Time (seconds): 0.667643
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 21
+Logged Time: 2020-10-31 22:42:43
+Alert Reported Time: 2020-10-31 22:42:42
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+16                  (3, 1)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+15                  (3, 0)   65      08:00:27:02:8A:40       
+17                  (3, 2)   90      08:00:27:02:8A:40       
+11                  (2, 1)   88      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:42:43
+Infrared Satellite Reporting (Celsius): 67
+Infrared Satellite Reporting Coord: (3, 1)
+Communication Time (seconds): 0.670428
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 26
+Logged Time: 2020-10-31 22:42:48
+Alert Reported Time: 2020-10-31 22:42:47
+Alert Type: True
+
+Reporting Node      Coord    Temp    MAC
+7                   (1, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+6                   (1, 1)   90      08:00:27:02:8A:40       
+8                   (1, 3)   89      08:00:27:02:8A:40       
+2                   (0, 2)   84      08:00:27:02:8A:40       
+12                  (2, 2)   80      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:42:48
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (1, 2)
+Communication Time (seconds): 0.666009
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 40
+Logged Time: 2020-10-31 22:43:02
+Alert Reported Time: 2020-10-31 22:43:01
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+14                  (2, 4)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+13                  (2, 3)   89      08:00:27:02:8A:40       
+9                   (1, 4)   89      08:00:27:02:8A:40       
+19                  (3, 4)   67      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:02
+Infrared Satellite Reporting (Celsius): 76
+Infrared Satellite Reporting Coord: (2, 4)
+Communication Time (seconds): 0.678537
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 47
+Logged Time: 2020-10-31 22:43:09
+Alert Reported Time: 2020-10-31 22:43:08
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+8                   (1, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+7                   (1, 2)   84      08:00:27:02:8A:40       
+9                   (1, 4)   88      08:00:27:02:8A:40       
+3                   (0, 3)   85      08:00:27:02:8A:40       
+13                  (2, 3)   70      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:09
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (1, 3)
+Communication Time (seconds): 0.686171
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 51
+Logged Time: 2020-10-31 22:43:13
+Alert Reported Time: 2020-10-31 22:43:12
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+0                   (0, 0)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+1                   (0, 1)   89      08:00:27:02:8A:40       
+5                   (1, 0)   89      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:13
+Infrared Satellite Reporting (Celsius): 65
+Infrared Satellite Reporting Coord: (0, 0)
+Communication Time (seconds): 0.687774
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 53
+Logged Time: 2020-10-31 22:43:15
+Alert Reported Time: 2020-10-31 22:43:14
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+16                  (3, 1)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+15                  (3, 0)   87      08:00:27:02:8A:40       
+17                  (3, 2)   69      08:00:27:02:8A:40       
+11                  (2, 1)   87      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:15
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (3, 1)
+Communication Time (seconds): 0.688279
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 54
+Logged Time: 2020-10-31 22:43:16
+Alert Reported Time: 2020-10-31 22:43:15
+Alert Type: False (Infrared satellite reading not found)
+
+Reporting Node      Coord    Temp    MAC
+8                   (1, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+7                   (1, 2)   71      08:00:27:02:8A:40       
+9                   (1, 4)   90      08:00:27:02:8A:40       
+3                   (0, 3)   90      08:00:27:02:8A:40       
+13                  (2, 3)   79      08:00:27:02:8A:40       
+Communication Time (seconds): 0.686233
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 55
+Logged Time: 2020-10-31 22:43:17
+Alert Reported Time: 2020-10-31 22:43:16
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+3                   (0, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+2                   (0, 2)   88      08:00:27:02:8A:40       
+4                   (0, 4)   74      08:00:27:02:8A:40       
+8                   (1, 3)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:17
+Infrared Satellite Reporting (Celsius): 69
+Infrared Satellite Reporting Coord: (0, 3)
+Communication Time (seconds): 0.688180
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 56
+Logged Time: 2020-10-31 22:43:18
+Alert Reported Time: 2020-10-31 22:43:17
+Alert Type: False (Infrared satellite reading not found)
+
+Reporting Node      Coord    Temp    MAC
+9                   (1, 4)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+8                   (1, 3)   90      08:00:27:02:8A:40       
+4                   (0, 4)   70      08:00:27:02:8A:40       
+14                  (2, 4)   89      08:00:27:02:8A:40       
+Communication Time (seconds): 0.689873
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 57
+Logged Time: 2020-10-31 22:43:19
+Alert Reported Time: 2020-10-31 22:43:18
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+1                   (0, 1)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+0                   (0, 0)   90      08:00:27:02:8A:40       
+2                   (0, 2)   90      08:00:27:02:8A:40       
+6                   (1, 1)   78      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:19
+Infrared Satellite Reporting (Celsius): 74
+Infrared Satellite Reporting Coord: (0, 1)
+Communication Time (seconds): 0.689676
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 58
+Logged Time: 2020-10-31 22:43:20
+Alert Reported Time: 2020-10-31 22:43:16
+Alert Type: False (Infrared satellite reading not found)
+
+Reporting Node      Coord    Temp    MAC
+5                   (1, 0)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+6                   (1, 1)   90      08:00:27:02:8A:40       
+0                   (0, 0)   90      08:00:27:02:8A:40       
+10                  (2, 0)   73      08:00:27:02:8A:40       
+Communication Time (seconds): 3.695386
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 59
+Logged Time: 2020-10-31 22:43:21
+Alert Reported Time: 2020-10-31 22:43:16
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+0                   (0, 0)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+1                   (0, 1)   89      08:00:27:02:8A:40       
+5                   (1, 0)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:21
+Infrared Satellite Reporting (Celsius): 65
+Infrared Satellite Reporting Coord: (0, 0)
+Communication Time (seconds): 4.694667
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 60
+Logged Time: 2020-10-31 22:43:22
+Alert Reported Time: 2020-10-31 22:43:19
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+7                   (1, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+6                   (1, 1)   87      08:00:27:02:8A:40       
+8                   (1, 3)   76      08:00:27:02:8A:40       
+2                   (0, 2)   90      08:00:27:02:8A:40       
+12                  (2, 2)   69      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:22
+Infrared Satellite Reporting (Celsius): 68
+Infrared Satellite Reporting Coord: (1, 2)
+Communication Time (seconds): 2.693064
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 61
+Logged Time: 2020-10-31 22:43:23
+Alert Reported Time: 2020-10-31 22:43:18
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+2                   (0, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+1                   (0, 1)   90      08:00:27:02:8A:40       
+3                   (0, 3)   90      08:00:27:02:8A:40       
+7                   (1, 2)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:23
+Infrared Satellite Reporting (Celsius): 76
+Infrared Satellite Reporting Coord: (0, 2)
+Communication Time (seconds): 4.696765
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 67
+Logged Time: 2020-10-31 22:43:29
+Alert Reported Time: 2020-10-31 22:43:28
+Alert Type: True
+
+Reporting Node      Coord    Temp    MAC
+17                  (3, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+16                  (3, 1)   86      08:00:27:02:8A:40       
+18                  (3, 3)   85      08:00:27:02:8A:40       
+12                  (2, 2)   67      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:29
+Infrared Satellite Reporting (Celsius): 95
+Infrared Satellite Reporting Coord: (3, 2)
+Communication Time (seconds): 0.684340
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 71
+Logged Time: 2020-10-31 22:43:33
+Alert Reported Time: 2020-10-31 22:43:32
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+9                   (1, 4)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+8                   (1, 3)   77      08:00:27:02:8A:40       
+4                   (0, 4)   90      08:00:27:02:8A:40       
+14                  (2, 4)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:33
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (1, 4)
+Communication Time (seconds): 0.678014
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 72
+Logged Time: 2020-10-31 22:43:34
+Alert Reported Time: 2020-10-31 22:43:33
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+10                  (2, 0)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+11                  (2, 1)   89      08:00:27:02:8A:40       
+5                   (1, 0)   89      08:00:27:02:8A:40       
+15                  (3, 0)   79      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:34
+Infrared Satellite Reporting (Celsius): 65
+Infrared Satellite Reporting Coord: (2, 0)
+Communication Time (seconds): 0.690389
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 75
+Logged Time: 2020-10-31 22:43:37
+Alert Reported Time: 2020-10-31 22:43:36
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+13                  (2, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+12                  (2, 2)   80      08:00:27:02:8A:40       
+14                  (2, 4)   72      08:00:27:02:8A:40       
+8                   (1, 3)   86      08:00:27:02:8A:40       
+18                  (3, 3)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:37
+Infrared Satellite Reporting (Celsius): 69
+Infrared Satellite Reporting Coord: (2, 3)
+Communication Time (seconds): 0.677076
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 76
+Logged Time: 2020-10-31 22:43:38
+Alert Reported Time: 2020-10-31 22:43:37
+Alert Type: True
+
+Reporting Node      Coord    Temp    MAC
+18                  (3, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+17                  (3, 2)   77      08:00:27:02:8A:40       
+19                  (3, 4)   89      08:00:27:02:8A:40       
+13                  (2, 3)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:38
+Infrared Satellite Reporting (Celsius): 91
+Infrared Satellite Reporting Coord: (3, 3)
+Communication Time (seconds): 0.676210
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 79
+Logged Time: 2020-10-31 22:43:41
+Alert Reported Time: 2020-10-31 22:43:40
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+2                   (0, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+1                   (0, 1)   88      08:00:27:02:8A:40       
+3                   (0, 3)   74      08:00:27:02:8A:40       
+7                   (1, 2)   89      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:41
+Infrared Satellite Reporting (Celsius): 76
+Infrared Satellite Reporting Coord: (0, 2)
+Communication Time (seconds): 0.690229
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 80
+Logged Time: 2020-10-31 22:43:42
+Alert Reported Time: 2020-10-31 22:43:41
+Alert Type: True
+
+Reporting Node      Coord    Temp    MAC
+12                  (2, 2)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+11                  (2, 1)   74      08:00:27:02:8A:40       
+13                  (2, 3)   90      08:00:27:02:8A:40       
+7                   (1, 2)   74      08:00:27:02:8A:40       
+17                  (3, 2)   90      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:42
+Infrared Satellite Reporting (Celsius): 91
+Infrared Satellite Reporting Coord: (2, 2)
+Communication Time (seconds): 0.692042
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 88
+Logged Time: 2020-10-31 22:43:50
+Alert Reported Time: 2020-10-31 22:43:49
+Alert Type: False
+
+Reporting Node      Coord    Temp    MAC
+13                  (2, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+12                  (2, 2)   87      08:00:27:02:8A:40       
+14                  (2, 4)   89      08:00:27:02:8A:40       
+8                   (1, 3)   82      08:00:27:02:8A:40       
+18                  (3, 3)   71      08:00:27:02:8A:40       
+
+Infrared Satellite Reporting Time: 2020-10-31 22:43:50
+Infrared Satellite Reporting (Celsius): 79
+Infrared Satellite Reporting Coord: (2, 3)
+Communication Time (seconds): 0.701823
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+SUMMARY
+Total number of alerts: 25
+Number of true alerts: 6
+Number of false alerts: 15
+Number of false (no infrared satellite reading) alerts: 4
+Average communication time (s): 1.202975
+------------------------------------------------------

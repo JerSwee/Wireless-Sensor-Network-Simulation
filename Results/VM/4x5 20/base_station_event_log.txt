@@ -1,0 +1,68 @@
+(0, 1) enqueued to queue with temp 93
+
+Iteration 0
+(2, 1) enqueued to queue with temp 89
+
+Iteration 1
+(0, 4) enqueued to queue with temp 79
+
+Iteration 2
+(3, 0) enqueued to queue with temp 91
+
+Iteration 3
+(2, 1) enqueued to queue with temp 75
+
+Iteration 4
+(1, 3) enqueued to queue with temp 66
+
+Iteration 5
+Base station received alert from rank 6
+(3, 0) enqueued to queue with temp 83
+
+Iteration 6
+(2, 0) enqueued to queue with temp 84
+
+Iteration 7
+(2, 2) enqueued to queue with temp 92
+
+Iteration 8
+(1, 2) enqueued to queue with temp 83
+
+Iteration 9
+(1, 1) enqueued to queue with temp 89
+
+Iteration 10
+Base station received alert from rank 5
+(3, 2) enqueued to queue with temp 89
+
+Iteration 11
+Base station received alert from rank 15
+(3, 3) enqueued to queue with temp 66
+
+Iteration 12
+(3, 0) enqueued to queue with temp 85
+
+Iteration 13
+(0, 0) enqueued to queue with temp 92
+
+Iteration 14
+(2, 0) enqueued to queue with temp 91
+
+Iteration 15
+(3, 2) enqueued to queue with temp 65
+
+Iteration 16
+(3, 1) enqueued to queue with temp 76
+
+Iteration 17
+(1, 4) enqueued to queue with temp 89
+
+Iteration 18
+(1, 1) enqueued to queue with temp 85
+
+Iteration 19
+(1, 3) enqueued to queue with temp 67
+Signalling sensor nodes to terminate
+All sensor nodes have been been signalled to terminate
+(3, 3) enqueued to queue with temp 86
+Infrared satellite has terminated

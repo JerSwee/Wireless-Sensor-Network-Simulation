@@ -1,0 +1,43 @@
+------------------------------------------------------
+Iteration: 16
+Logged Time: 2020-10-31 22:55:50
+Alert Reported Time: 2020-10-31 22:55:49
+Alert Type: False (Infrared satellite reading not found)
+
+Reporting Node      Coord    Temp    MAC
+21                  (2, 5)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+20                  (2, 4)   88      08:00:27:02:8A:40       
+22                  (2, 6)   89      08:00:27:02:8A:40       
+13                  (1, 5)   80      08:00:27:02:8A:40       
+29                  (3, 5)   78      08:00:27:02:8A:40       
+Communication Time (seconds): 1.000577
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+------------------------------------------------------
+------------------------------------------------------
+Iteration: 18
+Logged Time: 2020-10-31 22:55:52
+Alert Reported Time: 2020-10-31 22:55:51
+Alert Type: False (Infrared satellite reading not found)
+
+Reporting Node      Coord    Temp    MAC
+43                  (5, 3)   90      08:00:27:02:8A:40       
+
+Adjacent Nodes      Coord    Temp    MAC
+42                  (5, 2)   85      08:00:27:02:8A:40       
+44                  (5, 4)   90      08:00:27:02:8A:40       
+35                  (4, 3)   87      08:00:27:02:8A:40       
+Communication Time (seconds): 1.001558
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+------------------------------------------------------
+------------------------------------------------------
+SUMMARY
+Total number of alerts: 2
+Number of true alerts: 0
+Number of false alerts: 0
+Number of false (no infrared satellite reading) alerts: 2
+Average communication time (s): 1.001067
+------------------------------------------------------

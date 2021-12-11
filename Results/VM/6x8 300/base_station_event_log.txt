@@ -1,0 +1,1015 @@
+(4, 1) enqueued to queue with temp 80
+
+Iteration 0
+(1, 3) enqueued to queue with temp 91
+
+Iteration 1
+(1, 5) enqueued to queue with temp 72
+
+Iteration 2
+(0, 6) enqueued to queue with temp 81
+
+Iteration 3
+(1, 5) enqueued to queue with temp 77
+
+Iteration 4
+(4, 5) enqueued to queue with temp 85
+
+Iteration 5
+(5, 7) enqueued to queue with temp 89
+
+Iteration 6
+(0, 0) enqueued to queue with temp 92
+
+Iteration 7
+(3, 0) enqueued to queue with temp 66
+
+Iteration 8
+(5, 1) enqueued to queue with temp 80
+
+Iteration 9
+Base station received alert from rank 47
+(2, 0) enqueued to queue with temp 80
+
+Iteration 10
+Base station received alert from rank 35
+(5, 5) enqueued to queue with temp 70
+
+Iteration 11
+Base station received alert from rank 0
+(0, 6) enqueued to queue with temp 83
+
+Iteration 12
+(4, 6) enqueued to queue with temp 82
+
+Iteration 13
+(0, 2) enqueued to queue with temp 84
+
+Iteration 14
+(4, 5) enqueued to queue with temp 90
+
+Iteration 15
+Base station received alert from rank 13
+(4, 3) enqueued to queue with temp 72
+
+Iteration 16
+Base station received alert from rank 36
+(2, 2) enqueued to queue with temp 91
+
+Iteration 17
+Base station received alert from rank 21
+(1, 7) enqueued to queue with temp 94
+
+Iteration 18
+(0, 0) enqueued to queue with temp 89
+
+Iteration 19
+Base station received alert from rank 15
+(3, 4) enqueued to queue with temp 66
+
+Iteration 20
+Base station received alert from rank 20
+(1, 2) enqueued to queue with temp 92
+
+Iteration 21
+(5, 3) enqueued to queue with temp 86
+
+Iteration 22
+Base station received alert from rank 45
+(5, 7) enqueued to queue with temp 69
+
+Iteration 23
+(5, 3) enqueued to queue with temp 71
+
+Iteration 24
+Base station received alert from rank 8
+(1, 1) enqueued to queue with temp 85
+
+Iteration 25
+(3, 0) enqueued to queue with temp 66
+
+Iteration 26
+(3, 7) enqueued to queue with temp 78
+
+Iteration 27
+(5, 1) enqueued to queue with temp 69
+
+Iteration 28
+(2, 3) enqueued to queue with temp 68
+
+Iteration 29
+Base station received alert from rank 43
+(1, 5) enqueued to queue with temp 88
+
+Iteration 30
+(1, 0) enqueued to queue with temp 72
+
+Iteration 31
+(5, 2) enqueued to queue with temp 91
+
+Iteration 32
+(0, 0) enqueued to queue with temp 73
+
+Iteration 33
+(1, 3) enqueued to queue with temp 83
+
+Iteration 34
+Base station received alert from rank 20
+(4, 1) enqueued to queue with temp 75
+
+Iteration 35
+Base station received alert from rank 19
+(5, 0) enqueued to queue with temp 87
+
+Iteration 36
+(1, 6) enqueued to queue with temp 94
+
+Iteration 37
+(3, 0) enqueued to queue with temp 85
+
+Iteration 38
+Base station received alert from rank 4
+(1, 5) enqueued to queue with temp 87
+
+Iteration 39
+Base station received alert from rank 26
+(3, 0) enqueued to queue with temp 76
+
+Iteration 40
+Base station received alert from rank 11
+(1, 7) enqueued to queue with temp 91
+
+Iteration 41
+Base station received alert from rank 3
+(1, 4) enqueued to queue with temp 83
+
+Iteration 42
+(2, 3) enqueued to queue with temp 81
+
+Iteration 43
+(3, 3) enqueued to queue with temp 92
+
+Iteration 44
+(2, 1) enqueued to queue with temp 91
+
+Iteration 45
+(5, 7) enqueued to queue with temp 76
+
+Iteration 46
+(3, 3) enqueued to queue with temp 69
+
+Iteration 47
+(0, 4) enqueued to queue with temp 83
+
+Iteration 48
+Base station received alert from rank 11
+(1, 5) enqueued to queue with temp 83
+
+Iteration 49
+(2, 7) enqueued to queue with temp 72
+
+Iteration 50
+(4, 6) enqueued to queue with temp 75
+
+Iteration 51
+Base station received alert from rank 0
+(1, 5) enqueued to queue with temp 69
+
+Iteration 52
+Base station received alert from rank 22
+(5, 7) enqueued to queue with temp 92
+
+Iteration 53
+(3, 4) enqueued to queue with temp 83
+
+Iteration 54
+Base station received alert from rank 31
+(0, 2) enqueued to queue with temp 93
+
+Iteration 55
+Base station received alert from rank 15
+(5, 3) enqueued to queue with temp 77
+
+Iteration 56
+Base station received alert from rank 11
+(2, 1) enqueued to queue with temp 87
+
+Iteration 57
+Base station received alert from rank 23
+(2, 6) enqueued to queue with temp 66
+
+Iteration 58
+(0, 4) enqueued to queue with temp 85
+
+Iteration 59
+Base station received alert from rank 18
+(1, 7) enqueued to queue with temp 76
+
+Iteration 60
+Base station received alert from rank 13
+(1, 3) enqueued to queue with temp 79
+
+Iteration 61
+(1, 6) enqueued to queue with temp 77
+
+Iteration 62
+(3, 4) enqueued to queue with temp 71
+
+Iteration 63
+(1, 0) enqueued to queue with temp 73
+
+Iteration 64
+(3, 1) enqueued to queue with temp 65
+
+Iteration 65
+(2, 6) enqueued to queue with temp 73
+
+Iteration 66
+(0, 2) enqueued to queue with temp 82
+
+Iteration 67
+(5, 4) enqueued to queue with temp 92
+
+Iteration 68
+(1, 4) enqueued to queue with temp 82
+
+Iteration 69
+(4, 4) enqueued to queue with temp 80
+
+Iteration 70
+(2, 6) enqueued to queue with temp 86
+
+Iteration 71
+Base station received alert from rank 34
+(0, 1) enqueued to queue with temp 71
+
+Iteration 72
+Base station received alert from rank 33
+(5, 0) enqueued to queue with temp 82
+
+Iteration 73
+Base station received alert from rank 35
+(3, 6) enqueued to queue with temp 95
+
+Iteration 74
+(0, 2) enqueued to queue with temp 88
+
+Iteration 75
+(5, 3) enqueued to queue with temp 77
+
+Iteration 76
+(0, 7) enqueued to queue with temp 92
+
+Iteration 77
+(5, 3) enqueued to queue with temp 82
+
+Iteration 78
+(1, 4) enqueued to queue with temp 94
+
+Iteration 79
+(2, 4) enqueued to queue with temp 81
+
+Iteration 80
+(2, 2) enqueued to queue with temp 70
+
+Iteration 81
+Base station received alert from rank 11
+(0, 6) enqueued to queue with temp 91
+
+Iteration 82
+(2, 2) enqueued to queue with temp 76
+
+Iteration 83
+Base station received alert from rank 30
+(4, 1) enqueued to queue with temp 90
+
+Iteration 84
+Base station received alert from rank 18
+(3, 5) enqueued to queue with temp 74
+
+Iteration 85
+Base station received alert from rank 14
+(5, 5) enqueued to queue with temp 93
+
+Iteration 86
+(2, 7) enqueued to queue with temp 90
+
+Iteration 87
+(5, 3) enqueued to queue with temp 94
+
+Iteration 88
+(5, 7) enqueued to queue with temp 74
+
+Iteration 89
+(0, 3) enqueued to queue with temp 69
+
+Iteration 90
+(0, 6) enqueued to queue with temp 65
+
+Iteration 91
+(5, 6) enqueued to queue with temp 76
+
+Iteration 92
+(0, 7) enqueued to queue with temp 75
+
+Iteration 93
+(3, 5) enqueued to queue with temp 95
+
+Iteration 94
+(1, 1) enqueued to queue with temp 90
+
+Iteration 95
+(0, 5) enqueued to queue with temp 65
+
+Iteration 96
+(2, 4) enqueued to queue with temp 68
+
+Iteration 97
+(5, 2) enqueued to queue with temp 94
+
+Iteration 98
+Base station received alert from rank 46
+(3, 1) enqueued to queue with temp 88
+
+Iteration 99
+(1, 1) enqueued to queue with temp 82
+
+Iteration 100
+Base station received alert from rank 33
+(5, 3) enqueued to queue with temp 85
+
+Iteration 101
+(5, 6) enqueued to queue with temp 94
+
+Iteration 102
+(0, 6) enqueued to queue with temp 92
+
+Iteration 103
+(1, 4) enqueued to queue with temp 87
+
+Iteration 104
+(2, 0) enqueued to queue with temp 92
+
+Iteration 105
+Base station received alert from rank 20
+(0, 7) enqueued to queue with temp 93
+
+Iteration 106
+Base station received alert from rank 12
+(0, 7) enqueued to queue with temp 74
+
+Iteration 107
+Base station received alert from rank 35
+(2, 7) enqueued to queue with temp 65
+
+Iteration 108
+(0, 1) enqueued to queue with temp 66
+
+Iteration 109
+Base station received alert from rank 32
+(1, 2) enqueued to queue with temp 65
+
+Iteration 110
+(0, 1) enqueued to queue with temp 77
+
+Iteration 111
+Base station received alert from rank 44
+(2, 0) enqueued to queue with temp 72
+
+Iteration 112
+(5, 3) enqueued to queue with temp 88
+
+Iteration 113
+(4, 4) enqueued to queue with temp 76
+
+Iteration 114
+(2, 1) enqueued to queue with temp 82
+
+Iteration 115
+(2, 3) enqueued to queue with temp 87
+
+Iteration 116
+(1, 5) enqueued to queue with temp 83
+
+Iteration 117
+(2, 7) enqueued to queue with temp 84
+
+Iteration 118
+Base station received alert from rank 42
+(4, 2) enqueued to queue with temp 66
+
+Iteration 119
+Base station received alert from rank 34
+(5, 5) enqueued to queue with temp 94
+
+Iteration 120
+(4, 6) enqueued to queue with temp 77
+
+Iteration 121
+(4, 4) enqueued to queue with temp 82
+
+Iteration 122
+(5, 5) enqueued to queue with temp 68
+
+Iteration 123
+Base station received alert from rank 19
+(3, 6) enqueued to queue with temp 76
+
+Iteration 124
+Base station received alert from rank 18
+(0, 6) enqueued to queue with temp 68
+
+Iteration 125
+(1, 6) enqueued to queue with temp 87
+
+Iteration 126
+(0, 5) enqueued to queue with temp 80
+
+Iteration 127
+Base station received alert from rank 25
+(1, 7) enqueued to queue with temp 68
+
+Iteration 128
+Base station received alert from rank 10
+(0, 5) enqueued to queue with temp 73
+
+Iteration 129
+Base station received alert from rank 2
+(3, 5) enqueued to queue with temp 65
+
+Iteration 130
+(3, 5) enqueued to queue with temp 74
+
+Iteration 131
+(2, 4) enqueued to queue with temp 89
+
+Iteration 132
+(3, 5) enqueued to queue with temp 70
+
+Iteration 133
+Base station received alert from rank 38
+(0, 6) enqueued to queue with temp 86
+
+Iteration 134
+(4, 1) enqueued to queue with temp 94
+
+Iteration 135
+(4, 5) enqueued to queue with temp 94
+
+Iteration 136
+(1, 3) enqueued to queue with temp 68
+
+Iteration 137
+(5, 7) enqueued to queue with temp 67
+
+Iteration 138
+Base station received alert from rank 10
+(2, 1) enqueued to queue with temp 84
+
+Iteration 139
+(1, 5) enqueued to queue with temp 67
+
+Iteration 140
+Base station received alert from rank 21
+(0, 2) enqueued to queue with temp 93
+
+Iteration 141
+(2, 4) enqueued to queue with temp 66
+
+Iteration 142
+Base station received alert from rank 23
+(0, 5) enqueued to queue with temp 88
+
+Iteration 143
+Base station received alert from rank 12
+(3, 6) enqueued to queue with temp 83
+
+Iteration 144
+Base station received alert from rank 22
+(2, 5) enqueued to queue with temp 75
+
+Iteration 145
+Base station received alert from rank 39
+(2, 6) enqueued to queue with temp 84
+
+Iteration 146
+Base station received alert from rank 32
+(4, 0) enqueued to queue with temp 66
+
+Iteration 147
+Base station received alert from rank 14
+(5, 3) enqueued to queue with temp 79
+
+Iteration 148
+Base station received alert from rank 12
+(3, 4) enqueued to queue with temp 86
+
+Iteration 149
+Base station received alert from rank 38
+(4, 5) enqueued to queue with temp 75
+
+Iteration 150
+Base station received alert from rank 13
+(0, 0) enqueued to queue with temp 89
+
+Iteration 151
+(0, 6) enqueued to queue with temp 95
+
+Iteration 152
+Base station received alert from rank 18
+(5, 3) enqueued to queue with temp 68
+
+Iteration 153
+(1, 4) enqueued to queue with temp 82
+
+Iteration 154
+(1, 4) enqueued to queue with temp 95
+
+Iteration 155
+Base station received alert from rank 24
+(0, 3) enqueued to queue with temp 86
+
+Iteration 156
+Base station received alert from rank 27
+(3, 2) enqueued to queue with temp 82
+
+Iteration 157
+(5, 1) enqueued to queue with temp 78
+
+Iteration 158
+(0, 7) enqueued to queue with temp 66
+
+Iteration 159
+(4, 7) enqueued to queue with temp 82
+
+Iteration 160
+(5, 5) enqueued to queue with temp 85
+
+Iteration 161
+(1, 6) enqueued to queue with temp 93
+
+Iteration 162
+Base station received alert from rank 34
+(0, 1) enqueued to queue with temp 89
+
+Iteration 163
+Base station received alert from rank 32
+(4, 6) enqueued to queue with temp 82
+
+Iteration 164
+(5, 0) enqueued to queue with temp 93
+
+Iteration 165
+(1, 7) enqueued to queue with temp 92
+
+Iteration 166
+(4, 5) enqueued to queue with temp 95
+
+Iteration 167
+(2, 6) enqueued to queue with temp 81
+
+Iteration 168
+(2, 1) enqueued to queue with temp 95
+
+Iteration 169
+(3, 4) enqueued to queue with temp 89
+
+Iteration 170
+(3, 2) enqueued to queue with temp 73
+
+Iteration 171
+Base station received alert from rank 10
+(0, 5) enqueued to queue with temp 95
+
+Iteration 172
+(3, 1) enqueued to queue with temp 81
+
+Iteration 173
+Base station received alert from rank 17
+(5, 7) enqueued to queue with temp 77
+
+Iteration 174
+(4, 7) enqueued to queue with temp 90
+
+Iteration 175
+(0, 5) enqueued to queue with temp 75
+
+Iteration 176
+(2, 4) enqueued to queue with temp 67
+
+Iteration 177
+(0, 2) enqueued to queue with temp 86
+
+Iteration 178
+(1, 7) enqueued to queue with temp 84
+
+Iteration 179
+(1, 3) enqueued to queue with temp 67
+
+Iteration 180
+(1, 0) enqueued to queue with temp 78
+
+Iteration 181
+(5, 3) enqueued to queue with temp 79
+
+Iteration 182
+(0, 3) enqueued to queue with temp 76
+
+Iteration 183
+(0, 2) enqueued to queue with temp 73
+
+Iteration 184
+(4, 6) enqueued to queue with temp 86
+
+Iteration 185
+(5, 2) enqueued to queue with temp 77
+
+Iteration 186
+Base station received alert from rank 37
+(2, 5) enqueued to queue with temp 66
+
+Iteration 187
+Base station received alert from rank 33
+(1, 1) enqueued to queue with temp 80
+
+Iteration 188
+Base station received alert from rank 32
+(1, 6) enqueued to queue with temp 76
+
+Iteration 189
+(0, 2) enqueued to queue with temp 92
+
+Iteration 190
+(0, 1) enqueued to queue with temp 83
+
+Iteration 191
+(5, 3) enqueued to queue with temp 70
+
+Iteration 192
+Base station received alert from rank 11
+(1, 5) enqueued to queue with temp 94
+
+Iteration 193
+Base station received alert from rank 34
+(2, 0) enqueued to queue with temp 79
+
+Iteration 194
+Base station received alert from rank 19
+(0, 0) enqueued to queue with temp 76
+
+Iteration 195
+Base station received alert from rank 5
+(2, 7) enqueued to queue with temp 82
+
+Iteration 196
+(0, 2) enqueued to queue with temp 65
+
+Iteration 197
+Base station received alert from rank 18
+(2, 3) enqueued to queue with temp 74
+
+Iteration 198
+Base station received alert from rank 13
+(0, 1) enqueued to queue with temp 77
+
+Iteration 199
+Base station received alert from rank 43
+(1, 4) enqueued to queue with temp 94
+
+Iteration 200
+(1, 2) enqueued to queue with temp 91
+
+Iteration 201
+Base station received alert from rank 6
+(4, 7) enqueued to queue with temp 67
+
+Iteration 202
+(3, 0) enqueued to queue with temp 81
+
+Iteration 203
+(5, 7) enqueued to queue with temp 77
+
+Iteration 204
+(5, 0) enqueued to queue with temp 82
+
+Iteration 205
+(1, 7) enqueued to queue with temp 80
+
+Iteration 206
+Base station received alert from rank 41
+(4, 0) enqueued to queue with temp 86
+
+Iteration 207
+(4, 0) enqueued to queue with temp 73
+
+Iteration 208
+(4, 3) enqueued to queue with temp 88
+
+Iteration 209
+(1, 2) enqueued to queue with temp 83
+
+Iteration 210
+(1, 5) enqueued to queue with temp 68
+
+Iteration 211
+Base station received alert from rank 18
+(5, 1) enqueued to queue with temp 87
+
+Iteration 212
+Base station received alert from rank 17
+(2, 0) enqueued to queue with temp 83
+
+Iteration 213
+(1, 0) enqueued to queue with temp 83
+
+Iteration 214
+(1, 0) enqueued to queue with temp 75
+
+Iteration 215
+Base station received alert from rank 9
+(2, 0) enqueued to queue with temp 92
+
+Iteration 216
+(4, 2) enqueued to queue with temp 89
+
+Iteration 217
+Base station received alert from rank 1
+(4, 5) enqueued to queue with temp 68
+
+Iteration 218
+(2, 6) enqueued to queue with temp 72
+
+Iteration 219
+(3, 1) enqueued to queue with temp 91
+
+Iteration 220
+(1, 2) enqueued to queue with temp 84
+
+Iteration 221
+(5, 1) enqueued to queue with temp 70
+
+Iteration 222
+Base station received alert from rank 37
+(1, 6) enqueued to queue with temp 81
+
+Iteration 223
+Base station received alert from rank 26
+(4, 7) enqueued to queue with temp 95
+
+Iteration 224
+Base station received alert from rank 29
+(4, 2) enqueued to queue with temp 80
+
+Iteration 225
+(0, 5) enqueued to queue with temp 65
+
+Iteration 226
+Base station received alert from rank 9
+(4, 2) enqueued to queue with temp 73
+
+Iteration 227
+(3, 4) enqueued to queue with temp 91
+
+Iteration 228
+(4, 0) enqueued to queue with temp 68
+
+Iteration 229
+Base station received alert from rank 20
+(5, 7) enqueued to queue with temp 86
+
+Iteration 230
+(0, 5) enqueued to queue with temp 91
+
+Iteration 231
+(2, 5) enqueued to queue with temp 67
+
+Iteration 232
+Base station received alert from rank 21
+(5, 4) enqueued to queue with temp 67
+
+Iteration 233
+Base station received alert from rank 13
+(0, 3) enqueued to queue with temp 88
+
+Iteration 234
+Base station received alert from rank 2
+(0, 5) enqueued to queue with temp 82
+
+Iteration 235
+Base station received alert from rank 31
+(1, 5) enqueued to queue with temp 66
+
+Iteration 236
+Base station received alert from rank 11
+(2, 6) enqueued to queue with temp 81
+
+Iteration 237
+(1, 4) enqueued to queue with temp 72
+
+Iteration 238
+(3, 1) enqueued to queue with temp 68
+
+Iteration 239
+(1, 5) enqueued to queue with temp 86
+
+Iteration 240
+Base station received alert from rank 17
+(1, 7) enqueued to queue with temp 82
+
+Iteration 241
+(4, 4) enqueued to queue with temp 67
+
+Iteration 242
+(5, 4) enqueued to queue with temp 85
+
+Iteration 243
+(4, 5) enqueued to queue with temp 79
+
+Iteration 244
+(4, 2) enqueued to queue with temp 92
+
+Iteration 245
+(4, 6) enqueued to queue with temp 83
+
+Iteration 246
+(3, 7) enqueued to queue with temp 68
+
+Iteration 247
+(1, 2) enqueued to queue with temp 68
+
+Iteration 248
+(4, 7) enqueued to queue with temp 90
+
+Iteration 249
+(0, 2) enqueued to queue with temp 83
+
+Iteration 250
+Base station received alert from rank 31
+(3, 4) enqueued to queue with temp 82
+
+Iteration 251
+(1, 0) enqueued to queue with temp 67
+
+Iteration 252
+(2, 3) enqueued to queue with temp 87
+
+Iteration 253
+Base station received alert from rank 39
+(5, 1) enqueued to queue with temp 76
+
+Iteration 254
+(4, 4) enqueued to queue with temp 79
+
+Iteration 255
+Base station received alert from rank 38
+(4, 5) enqueued to queue with temp 85
+
+Iteration 256
+(2, 1) enqueued to queue with temp 83
+
+Iteration 257
+(4, 3) enqueued to queue with temp 68
+
+Iteration 258
+Base station received alert from rank 9
+(0, 5) enqueued to queue with temp 75
+
+Iteration 259
+(5, 3) enqueued to queue with temp 79
+
+Iteration 260
+Base station received alert from rank 28
+(2, 0) enqueued to queue with temp 68
+
+Iteration 261
+(2, 1) enqueued to queue with temp 89
+
+Iteration 262
+Base station received alert from rank 12
+(3, 7) enqueued to queue with temp 75
+
+Iteration 263
+(0, 0) enqueued to queue with temp 87
+
+Iteration 264
+(5, 1) enqueued to queue with temp 66
+
+Iteration 265
+(5, 0) enqueued to queue with temp 85
+
+Iteration 266
+(3, 7) enqueued to queue with temp 94
+
+Iteration 267
+(1, 0) enqueued to queue with temp 72
+
+Iteration 268
+(2, 0) enqueued to queue with temp 69
+
+Iteration 269
+(1, 7) enqueued to queue with temp 91
+
+Iteration 270
+(5, 0) enqueued to queue with temp 71
+
+Iteration 271
+(1, 6) enqueued to queue with temp 74
+
+Iteration 272
+(1, 0) enqueued to queue with temp 81
+
+Iteration 273
+(0, 4) enqueued to queue with temp 94
+
+Iteration 274
+(1, 2) enqueued to queue with temp 77
+
+Iteration 275
+Base station received alert from rank 44
+(2, 4) enqueued to queue with temp 88
+
+Iteration 276
+(1, 1) enqueued to queue with temp 71
+
+Iteration 277
+(1, 0) enqueued to queue with temp 87
+
+Iteration 278
+(0, 1) enqueued to queue with temp 82
+
+Iteration 279
+(4, 6) enqueued to queue with temp 79
+
+Iteration 280
+(1, 6) enqueued to queue with temp 69
+
+Iteration 281
+Base station received alert from rank 4
+(0, 6) enqueued to queue with temp 74
+
+Iteration 282
+Base station received alert from rank 18
+(4, 7) enqueued to queue with temp 72
+
+Iteration 283
+Base station received alert from rank 10
+(2, 6) enqueued to queue with temp 69
+
+Iteration 284
+Base station received alert from rank 33
+(0, 0) enqueued to queue with temp 90
+
+Iteration 285
+Base station received alert from rank 30
+(5, 0) enqueued to queue with temp 77
+
+Iteration 286
+Base station received alert from rank 17
+(3, 1) enqueued to queue with temp 89
+
+Iteration 287
+(4, 6) enqueued to queue with temp 69
+
+Iteration 288
+Base station received alert from rank 42
+(2, 4) enqueued to queue with temp 82
+
+Iteration 289
+(1, 1) enqueued to queue with temp 73
+
+Iteration 290
+Base station received alert from rank 5
+(2, 7) enqueued to queue with temp 65
+
+Iteration 291
+(5, 2) enqueued to queue with temp 82
+
+Iteration 292
+(1, 7) enqueued to queue with temp 85
+
+Iteration 293
+(1, 7) enqueued to queue with temp 91
+
+Iteration 294
+(3, 0) enqueued to queue with temp 77
+
+Iteration 295
+(4, 5) enqueued to queue with temp 69
+
+Iteration 296
+Base station received alert from rank 26
+(0, 7) enqueued to queue with temp 68
+
+Iteration 297
+(2, 5) enqueued to queue with temp 92
+
+Iteration 298
+(4, 4) enqueued to queue with temp 94
+
+Iteration 299
+(3, 4) enqueued to queue with temp 69
+Signalling sensor nodes to terminate
+All sensor nodes have been been signalled to terminate
+(4, 3) enqueued to queue with temp 72
+(0, 5) enqueued to queue with temp 80
+Infrared satellite has terminated

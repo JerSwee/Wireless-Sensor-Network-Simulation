@@ -1,0 +1,1409 @@
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+rank 23 is probing
+Rank 23 received a request from Rank 31
+Rank 23 sent 75 to rank 31
+rank 23 is probing
+rank 23 is probing
+Rank: 23 exceeding threshold with temp: 90
+rank 23 sent a request to 22
+rank 23 sent a request to 15
+rank 23 sent a request to 31
+Rank 23 is waiting
+rank 23 is probing
+rank 23 received a termination message
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+Rank 34 received a request from Rank 35
+Rank 34 sent 76 to rank 35
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+rank 34 is probing
+Rank: 34 exceeding threshold with temp: 90
+rank 34 sent a request to 33
+rank 34 sent a request to 35
+rank 34 sent a request to 26
+rank 34 sent a request to 42
+Rank 34 is waiting
+rank 34 is probing
+Rank 34 is waiting
+rank 34 is probing
+rank 34 received a termination message
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+Rank 4 received a request from Rank 5
+Rank 4 sent 87 to rank 5
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+Rank: 4 exceeding threshold with temp: 90
+rank 4 sent a request to 3
+rank 4 sent a request to 5
+rank 4 sent a request to 12
+Rank 4 is waiting
+rank 4 is probing
+Rank 4 is waiting
+rank 4 is probing
+Rank 4 is waiting
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+rank 4 is probing
+Rank: 4 exceeding threshold with temp: 90
+rank 4 sent a request to 3
+rank 4 sent a request to 5
+rank 4 sent a request to 12
+Rank 4 is waiting
+rank 4 is probing
+Rank 4 is waiting
+rank 4 is probing
+Rank 4 is waiting
+rank 4 is probing
+rank 4 received a termination message
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+Rank 16 received a request from Rank 24
+Rank 16 sent 78 to rank 24
+rank 16 is probing
+Rank 16 received a request from Rank 8
+Rank 16 sent 75 to rank 8
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 is probing
+rank 16 received a termination message
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+Rank 25 received a request from Rank 24
+Rank 25 sent 72 to rank 24
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 is probing
+rank 25 received a termination message
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+Rank 6 received a request from Rank 14
+Rank 6 sent 89 to rank 14
+rank 6 is probing
+Rank 6 received a request from Rank 5
+Rank 6 sent 73 to rank 5
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 is probing
+rank 6 received a termination message
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+Rank 46 received a request from Rank 38
+Rank 46 sent 70 to rank 38
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+Rank 46 received a request from Rank 45
+Rank 46 sent 69 to rank 45
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 is probing
+rank 46 received a termination message
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+Rank: 44 exceeding threshold with temp: 90
+rank 44 sent a request to 43
+rank 44 sent a request to 45
+rank 44 sent a request to 36
+Rank 44 is waiting
+rank 44 is probing
+Rank 44 is waiting
+rank 44 is probing
+Rank 44 is waiting
+rank 44 is probing
+Rank 44 is waiting
+rank 44 is probing
+Rank 44 received a request from Rank 43
+Rank 44 sent 90 to rank 43
+rank 44 is probing
+Rank 44 received a request from Rank 45
+Rank 44 sent 75 to rank 45
+rank 44 is probing
+rank 44 is probing
+Rank 44 received a request from Rank 36
+Rank 44 sent 89 to rank 36
+rank 44 is probing
+rank 44 is probing
+rank 44 is probing
+rank 44 received a termination message
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+Rank: 24 exceeding threshold with temp: 90
+rank 24 sent a request to 25
+rank 24 sent a request to 16
+rank 24 sent a request to 32
+Rank 24 is waiting
+rank 24 is probing
+Rank 24 is waiting
+rank 24 is probing
+Rank 24 is waiting
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 is probing
+rank 24 received a termination message
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 is probing
+rank 47 received a termination message
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+Rank 39 received a request from Rank 38
+Rank 39 sent 70 to rank 38
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+Rank 39 received a request from Rank 31
+Rank 39 sent 80 to rank 31
+rank 39 is probing
+rank 39 is probing
+rank 39 is probing
+rank 39 received a termination message
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+Rank 19 received a request from Rank 18
+Rank 19 sent 76 to rank 18
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+Rank 19 received a request from Rank 27
+Rank 19 sent 78 to rank 27
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+Rank 19 received a request from Rank 18
+Rank 19 sent 74 to rank 18
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+rank 19 is probing
+Rank 19 received a request from Rank 11
+Rank 19 sent 80 to rank 11
+rank 19 is probing
+rank 19 is probing
+rank 19 received a termination message
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+rank 33 is probing
+Rank 33 received a request from Rank 34
+Rank 33 sent 80 to rank 34
+rank 33 is probing
+rank 33 received a termination message
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+Rank 21 received a request from Rank 29
+Rank 21 sent 84 to rank 29
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+Rank: 21 exceeding threshold with temp: 90
+rank 21 sent a request to 20
+rank 21 sent a request to 22
+rank 21 sent a request to 13
+rank 21 sent a request to 29
+Rank 21 is waiting
+rank 21 is probing
+Rank 21 is waiting
+rank 21 is probing
+Rank 21 is waiting
+rank 21 is probing
+Rank 21 is waiting
+rank 21 is probing
+(Rank 21) coord (2, 5) is sending an alert with temp 90
+rank 21 is probing
+Rank 21 received a request from Rank 29
+Rank 21 sent 71 to rank 29
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 is probing
+rank 21 received a termination message
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+Rank 37 received a request from Rank 29
+Rank 37 sent 68 to rank 29
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+Rank 37 received a request from Rank 38
+Rank 37 sent 88 to rank 38
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+Rank 37 received a request from Rank 45
+Rank 37 sent 72 to rank 45
+rank 37 is probing
+rank 37 is probing
+Rank 37 received a request from Rank 29
+Rank 37 sent 73 to rank 29
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+Rank 37 received a request from Rank 36
+Rank 37 sent 68 to rank 36
+rank 37 is probing
+rank 37 is probing
+rank 37 is probing
+rank 37 received a termination message
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+Rank 32 received a request from Rank 24
+Rank 32 sent 67 to rank 24
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 is probing
+rank 32 received a termination message
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 is probing
+rank 7 received a termination message
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+Rank 10 received a request from Rank 18
+Rank 10 sent 76 to rank 18
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+Rank 10 received a request from Rank 18
+Rank 10 sent 79 to rank 18
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+rank 10 is probing
+Rank 10 received a request from Rank 11
+Rank 10 sent 67 to rank 11
+rank 10 is probing
+rank 10 is probing
+Rank: 10 exceeding threshold with temp: 90
+rank 10 sent a request to 9
+rank 10 sent a request to 11
+rank 10 sent a request to 2
+rank 10 sent a request to 18
+Rank 10 is waiting
+rank 10 is probing
+rank 10 received a termination message
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+Rank: 35 exceeding threshold with temp: 90
+rank 35 sent a request to 34
+rank 35 sent a request to 36
+rank 35 sent a request to 27
+rank 35 sent a request to 43
+Rank 35 is waiting
+rank 35 is probing
+Rank 35 is waiting
+rank 35 is probing
+Rank 35 is waiting
+rank 35 is probing
+rank 35 is probing
+Rank 35 received a request from Rank 27
+Rank 35 sent 71 to rank 27
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+Rank 35 received a request from Rank 43
+Rank 35 sent 87 to rank 43
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+rank 35 is probing
+Rank 35 received a request from Rank 36
+Rank 35 sent 81 to rank 36
+rank 35 is probing
+Rank 35 received a request from Rank 34
+Rank 35 sent 65 to rank 34
+rank 35 is probing
+rank 35 is probing
+rank 35 received a termination message
+rank 29 is probing
+rank 29 is probing
+rank 29 is probing
+Rank: 29 exceeding threshold with temp: 90
+rank 29 sent a request to 28
+rank 29 sent a request to 30
+rank 29 sent a request to 21
+rank 29 sent a request to 37
+Rank 29 is waiting
+rank 29 is probing
+Rank 29 is waiting
+rank 29 is probing
+Rank 29 is waiting
+rank 29 is probing
+rank 29 is probing
+rank 29 is probing
+Rank 29 received a request from Rank 28
+Rank 29 sent 77 to rank 28
+rank 29 is probing
+rank 29 is probing
+Rank 29 received a request from Rank 30
+Rank 29 sent 80 to rank 30
+rank 29 is probing
+Rank 29 received a request from Rank 21
+Rank 29 sent 78 to rank 21
+rank 29 is probing
+rank 29 is probing
+rank 29 is probing
+Rank: 29 exceeding threshold with temp: 90
+rank 29 sent a request to 28
+rank 29 sent a request to 30
+rank 29 sent a request to 21
+rank 29 sent a request to 37
+Rank 29 is waiting
+rank 29 is probing
+Rank 29 is waiting
+rank 29 is probing
+Rank 29 is waiting
+rank 29 is probing
+Rank 29 is waiting
+rank 29 is probing
+rank 29 is probing
+rank 29 is probing
+rank 29 received a termination message
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+Rank 9 received a request from Rank 8
+Rank 9 sent 80 to rank 8
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 is probing
+rank 9 received a termination message
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+Rank: 18 exceeding threshold with temp: 90
+rank 18 sent a request to 17
+rank 18 sent a request to 19
+rank 18 sent a request to 10
+rank 18 sent a request to 26
+Rank 18 is waiting
+rank 18 is probing
+Rank 18 is waiting
+rank 18 is probing
+Rank 18 is waiting
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+Rank: 18 exceeding threshold with temp: 90
+rank 18 sent a request to 17
+rank 18 sent a request to 19
+rank 18 sent a request to 10
+rank 18 sent a request to 26
+Rank 18 is waiting
+rank 18 is probing
+Rank 18 is waiting
+rank 18 is probing
+Rank 18 is waiting
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 is probing
+rank 18 received a termination message
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+Rank 20 received a request from Rank 28
+Rank 20 sent 79 to rank 28
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+Rank 20 received a request from Rank 21
+Rank 20 sent 88 to rank 21
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 is probing
+rank 20 received a termination message
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+Rank 12 received a request from Rank 4
+Rank 12 sent 69 to rank 4
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+rank 12 is probing
+Rank 12 received a request from Rank 11
+Rank 12 sent 76 to rank 11
+rank 12 is probing
+Rank 12 received a request from Rank 4
+Rank 12 sent 78 to rank 4
+rank 12 is probing
+rank 12 received a termination message
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+Rank 15 received a request from Rank 14
+Rank 15 sent 78 to rank 14
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+rank 15 is probing
+Rank 15 received a request from Rank 23
+Rank 15 sent 76 to rank 23
+rank 15 is probing
+rank 15 received a termination message
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 is probing
+rank 40 received a termination message
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+Rank 17 received a request from Rank 18
+Rank 17 sent 89 to rank 18
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+Rank 17 received a request from Rank 18
+Rank 17 sent 75 to rank 18
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 is probing
+rank 17 received a termination message
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+Rank 22 received a request from Rank 14
+Rank 22 sent 83 to rank 14
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+Rank 22 received a request from Rank 30
+Rank 22 sent 78 to rank 30
+rank 22 is probing
+rank 22 is probing
+Rank 22 received a request from Rank 21
+Rank 22 sent 89 to rank 21
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+rank 22 is probing
+Rank 22 received a request from Rank 23
+Rank 22 sent 67 to rank 23
+rank 22 is probing
+rank 22 received a termination message
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 is probing
+rank 1 received a termination message
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+Rank 45 received a request from Rank 44
+Rank 45 sent 68 to rank 44
+rank 45 is probing
+Rank: 45 exceeding threshold with temp: 90
+rank 45 sent a request to 44
+rank 45 sent a request to 46
+rank 45 sent a request to 37
+Rank 45 is waiting
+rank 45 is probing
+Rank 45 is waiting
+rank 45 is probing
+Rank 45 is waiting
+rank 45 is probing
+Rank 45 is waiting
+rank 45 is probing
+Rank 45 is waiting
+rank 45 is probing
+Rank 45 is waiting
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 is probing
+rank 45 received a termination message
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+Rank 0 received a request from Rank 8
+Rank 0 sent 80 to rank 8
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 is probing
+rank 0 received a termination message
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+Rank 26 received a request from Rank 18
+Rank 26 sent 66 to rank 18
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+Rank 26 received a request from Rank 27
+Rank 26 sent 80 to rank 27
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+Rank 26 received a request from Rank 18
+Rank 26 sent 78 to rank 18
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+rank 26 is probing
+Rank 26 received a request from Rank 34
+Rank 26 sent 80 to rank 34
+rank 26 is probing
+rank 26 is probing
+rank 26 received a termination message
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+Rank 43 received a request from Rank 35
+Rank 43 sent 89 to rank 35
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+Rank 43 received a request from Rank 44
+Rank 43 sent 83 to rank 44
+rank 43 is probing
+Rank: 43 exceeding threshold with temp: 90
+rank 43 sent a request to 42
+rank 43 sent a request to 44
+rank 43 sent a request to 35
+Rank 43 is waiting
+rank 43 is probing
+Rank 43 is waiting
+rank 43 is probing
+Rank 43 is waiting
+rank 43 is probing
+Rank 43 is waiting
+rank 43 is probing
+(Rank 43) coord (5, 3) is sending an alert with temp 90
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 is probing
+rank 43 received a termination message
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+Rank: 8 exceeding threshold with temp: 90
+rank 8 sent a request to 9
+rank 8 sent a request to 0
+rank 8 sent a request to 16
+Rank 8 is waiting
+rank 8 is probing
+Rank 8 is waiting
+rank 8 is probing
+Rank 8 is waiting
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 is probing
+rank 8 received a termination message
+rank 14 is probing
+rank 14 is probing
+Rank: 14 exceeding threshold with temp: 90
+rank 14 sent a request to 13
+rank 14 sent a request to 15
+rank 14 sent a request to 6
+rank 14 sent a request to 22
+Rank 14 is waiting
+rank 14 is probing
+Rank 14 is waiting
+rank 14 is probing
+Rank 14 is waiting
+rank 14 is probing
+Rank 14 is waiting
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 is probing
+rank 14 received a termination message
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+Rank 30 received a request from Rank 29
+Rank 30 sent 74 to rank 29
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+Rank 30 received a request from Rank 38
+Rank 30 sent 73 to rank 38
+rank 30 is probing
+Rank: 30 exceeding threshold with temp: 90
+rank 30 sent a request to 29
+rank 30 sent a request to 31
+rank 30 sent a request to 22
+rank 30 sent a request to 38
+Rank 30 is waiting
+rank 30 is probing
+Rank 30 is waiting
+rank 30 is probing
+Rank 30 is waiting
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+Rank 30 received a request from Rank 29
+Rank 30 sent 79 to rank 29
+rank 30 is probing
+rank 30 is probing
+Rank 30 received a request from Rank 31
+Rank 30 sent 75 to rank 31
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+rank 30 is probing
+rank 30 received a termination message
+rank 28 is probing
+rank 28 is probing
+rank 28 is probing
+rank 28 is probing
+Rank 28 received a request from Rank 29
+Rank 28 sent 66 to rank 29
+rank 28 is probing
+rank 28 is probing
+rank 28 is probing
+Rank: 28 exceeding threshold with temp: 90
+rank 28 sent a request to 27
+rank 28 sent a request to 29
+rank 28 sent a request to 20
+rank 28 sent a request to 36
+Rank 28 is waiting
+rank 28 is probing
+Rank 28 is waiting
+rank 28 is probing
+Rank 28 is waiting
+rank 28 is probing
+Rank 28 is waiting
+rank 28 is probing
+rank 28 is probing
+Rank 28 received a request from Rank 27
+Rank 28 sent 81 to rank 27
+rank 28 is probing
+rank 28 is probing
+rank 28 is probing
+Rank 28 received a request from Rank 29
+Rank 28 sent 78 to rank 29
+rank 28 is probing
+rank 28 is probing
+rank 28 is probing
+Rank 28 received a request from Rank 36
+Rank 28 sent 79 to rank 36
+rank 28 is probing
+rank 28 is probing
+rank 28 is probing
+rank 28 received a termination message
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 is probing
+rank 41 received a termination message
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+Rank: 38 exceeding threshold with temp: 90
+rank 38 sent a request to 37
+rank 38 sent a request to 39
+rank 38 sent a request to 30
+rank 38 sent a request to 46
+Rank 38 is waiting
+rank 38 is probing
+Rank 38 is waiting
+rank 38 is probing
+Rank 38 is waiting
+rank 38 is probing
+Rank 38 received a request from Rank 30
+Rank 38 sent 90 to rank 30
+Rank 38 is waiting
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 is probing
+rank 38 received a termination message
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+Rank: 5 exceeding threshold with temp: 90
+rank 5 sent a request to 4
+rank 5 sent a request to 6
+rank 5 sent a request to 13
+Rank 5 is waiting
+rank 5 is probing
+Rank 5 is waiting
+rank 5 is probing
+Rank 5 is waiting
+rank 5 is probing
+Rank 5 is waiting
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+Rank 5 received a request from Rank 4
+Rank 5 sent 68 to rank 4
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+Rank 5 received a request from Rank 4
+Rank 5 sent 75 to rank 4
+rank 5 is probing
+rank 5 is probing
+rank 5 is probing
+rank 5 received a termination message
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+Rank 42 received a request from Rank 43
+Rank 42 sent 85 to rank 43
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+rank 42 is probing
+Rank 42 received a request from Rank 34
+Rank 42 sent 77 to rank 34
+rank 42 is probing
+rank 42 is probing
+rank 42 received a termination message
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+Rank 27 received a request from Rank 35
+Rank 27 sent 82 to rank 35
+rank 27 is probing
+Rank 27 received a request from Rank 28
+Rank 27 sent 66 to rank 28
+rank 27 is probing
+rank 27 is probing
+Rank: 27 exceeding threshold with temp: 90
+rank 27 sent a request to 26
+rank 27 sent a request to 28
+rank 27 sent a request to 19
+rank 27 sent a request to 35
+Rank 27 is waiting
+rank 27 is probing
+Rank 27 is waiting
+rank 27 is probing
+Rank 27 is waiting
+rank 27 is probing
+Rank 27 is waiting
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 is probing
+rank 27 received a termination message
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+Rank 3 received a request from Rank 4
+Rank 3 sent 88 to rank 4
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+rank 3 is probing
+Rank 3 received a request from Rank 4
+Rank 3 sent 68 to rank 4
+rank 3 is probing
+Rank 3 received a request from Rank 11
+Rank 3 sent 88 to rank 11
+rank 3 is probing
+rank 3 is probing
+rank 3 received a termination message
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 is probing
+rank 2 received a termination message
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+Rank 13 received a request from Rank 14
+Rank 13 sent 70 to rank 14
+rank 13 is probing
+Rank 13 received a request from Rank 5
+Rank 13 sent 78 to rank 5
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+Rank 13 received a request from Rank 21
+Rank 13 sent 80 to rank 21
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 is probing
+rank 13 received a termination message
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+Rank 31 received a request from Rank 30
+Rank 31 sent 80 to rank 30
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+rank 31 is probing
+Rank: 31 exceeding threshold with temp: 90
+rank 31 sent a request to 30
+rank 31 sent a request to 23
+rank 31 sent a request to 39
+Rank 31 is waiting
+rank 31 is probing
+Rank 31 is waiting
+rank 31 is probing
+Rank 31 is waiting
+rank 31 is probing
+Rank 31 is waiting
+rank 31 is probing
+Rank 31 received a request from Rank 23
+Rank 31 sent 90 to rank 23
+rank 31 is probing
+rank 31 received a termination message
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+rank 11 is probing
+Rank: 11 exceeding threshold with temp: 90
+rank 11 sent a request to 10
+rank 11 sent a request to 12
+rank 11 sent a request to 3
+rank 11 sent a request to 19
+Rank 11 is waiting
+rank 11 is probing
+Rank 11 is waiting
+rank 11 is probing
+Rank 11 is waiting
+rank 11 is probing
+rank 11 is probing
+rank 11 received a termination message
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+Rank 36 received a request from Rank 35
+Rank 36 sent 75 to rank 35
+rank 36 is probing
+rank 36 is probing
+Rank 36 received a request from Rank 28
+Rank 36 sent 86 to rank 28
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+Rank 36 received a request from Rank 44
+Rank 36 sent 72 to rank 44
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+Rank: 36 exceeding threshold with temp: 90
+rank 36 sent a request to 35
+rank 36 sent a request to 37
+rank 36 sent a request to 28
+rank 36 sent a request to 44
+Rank 36 is waiting
+rank 36 is probing
+Rank 36 is waiting
+rank 36 is probing
+Rank 36 is waiting
+rank 36 is probing
+rank 36 is probing
+rank 36 is probing
+rank 36 received a termination message
